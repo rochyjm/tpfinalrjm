@@ -1,0 +1,55 @@
+main{
+ background-color: #efe6d5;
+}
+
+nav{ 
+    background: #ffab91;
+    color: rgb(134, 94, 50);
+    text-align: center;
+    vertical-align: middle;
+    height: 55px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-shadow: rgb(127, 52, 52);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-style: oblique;
+    font-size: large;
+    font-weight: 50px;
+}
+
+h1{
+    margin:0%;
+    text-transform: uppercase;
+    vertical-align: center;
+    }
+
+.tarjetita{
+    background-image: url(https://media.gettyimages.com/photos/tradition-chinese-food-dim-sum-display-picture-id1308631531?s=2048x2048);
+    color: rgb(75, 48, 10);
+    border-color: rgb(178, 95, 32);
+    border-style: dotted;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    box-sizing: border-box;
+    overflow: scroll;
+    padding: 0%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.info-tarjeta-ingredient{
+    text-decoration: underline; 
+}
+
+
+footer{ 
+    background: #ffa000 ;
+    color: rgb(100,100,20);
+    margin: 0%;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
